@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : Shell.c
- Author      : 
+ Author      :
  Version     :
  Copyright   : Your copyright notice
  Description : Hello World in C, Ansi-style
@@ -13,7 +13,7 @@
 
 int main(void) {
 
-
+	printf("Enter 2 elements\n");
 
 	return EXIT_SUCCESS;
 }
